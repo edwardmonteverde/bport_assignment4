@@ -1,0 +1,7 @@
+Printing value array:	[1, 6, 18, 22, 28]
+Printing weight array:	[1, 2, 5, 6, 7]
+Number of elements in set is : 5
+Max sack size is : 11
+Max value is 40
+Optimal element set is 4, 3
+Optimal value set is 22, 18
